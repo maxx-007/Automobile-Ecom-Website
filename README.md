@@ -11,8 +11,10 @@ Responsive Design: The layout adapts seamlessly to various screen sizes, ensurin
 
 Interactive Catalog:
     Display of 6 items across 2 rows, with categories for different types of modifications.
-    Semi-transparent image fills to make catalog images stand out.
-    Navigation bar with links to Home, About Us, and an Illegal Mods page.
+    
+   Semi-transparent image fills to make catalog images stand out.
+    
+   Navigation bar with links to Home, About Us, and an Illegal Mods page.
     
 Dynamic Cart Functionality:
     Cart that slides in from the right side of the screen.
