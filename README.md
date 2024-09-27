@@ -15,21 +15,28 @@ Interactive Catalog:
    Semi-transparent image fills to make catalog images stand out.
     
    Navigation bar with links to Home, About Us, and an Illegal Mods page.
+
     
 Dynamic Cart Functionality:
-    Cart that slides in from the right side of the screen.
-    Items added to the cart appear with a thumbnail, name, and quantity.
-    Live cart updates without needing to close and reopen the cart.
+
+   Cart that slides in from the right side of the screen.
+   Items added to the cart appear with a thumbnail, name, and quantity.
+   Live cart updates without needing to close and reopen the cart.
     
 Popup for Illegal Mods: A unique Red Pill/Blue Pill choice when accessing the illegal mods page:
-    Red Pill: Redirects to the illegal mods.html page.
+
+   Red Pill: Redirects to the illegal mods.html page.
     Blue Pill: Redirects to a YouTube video link.
     Marquee Element: Displays an important update with animated red text on a black background.
 
  # Tech Stack
 
 HTML5: Structure of the website.
+
+
 CSS3: For styling, including hover effects, semi-transparent backgrounds, and responsive layouts.
+
+
 JavaScript: For interactivity like the Add to Cart system, popups, and dynamic page updates.
 
 # Setup Instructions
