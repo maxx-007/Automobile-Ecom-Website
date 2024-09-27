@@ -67,6 +67,15 @@ Backend Support: Use of a framework like Node.js or Django to handle dynamic con
 
 # Screenshots
 
+### Homepage
+![Homepage](Screenshots/H1.png)
+![Homepage](Screenshots/H2.png)
+![Homepage](Screenshots/cat.png)
+![Homepage](Screenshots/H3.png)
+### About Us 
+![ABOUTUS](Screenshots/US1.png)
+![ABOUTUS](Screenshots/US2.png)
+
 # Contact
 
 For any queries, feel free to contact me at k.hadkar@somaiya.edu
